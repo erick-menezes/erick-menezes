@@ -1,4 +1,6 @@
-### Hi there 👋
+### Oi! 👋
+
+Meu nome é Erick e estou na busca da aprendizagem para o FullStack 📝. Estou cursando 🎓 Ciências da Computação 🎓 na Estácio e estou começando a realizar alguns projetos, espero poder compartilhar alguns aqui em breve. 
 
 <!--
 **erick-menezes/erick-menezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Você pode me achar aqui também:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erickmenezes/)](https://www.linkedin.com/in/erickmenezes/)
