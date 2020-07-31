@@ -1,21 +1,21 @@
 ### Oi! 👋
 
-Meu nome é Erick e estou na busca da aprendizagem para o FullStack 📝. Estou cursando 🎓 Ciências da Computação 🎓 na Estácio e estou começando a realizar alguns projetos, espero poder compartilhar alguns aqui em breve. 
+Meu nome é Erick e estou na busca da aprendizagem para o FullStack 📝. Estou cursando 🎓 Ciências da Computação 🎓 na Estácio e estou começando a realizar alguns projetos, espero poder compartilhar alguns aqui em breve. Linguagens de programação que tenho algum conhecimento:
 
-<!--
-**erick-menezes/erick-menezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Linguagem                       | Nível         |
+| :-----------------------------: | :-----------: |
+| _Python_                        | Intermediário |
+| _JavaScript (puro e com React)_ | Intermediário |
+| _C++_                           | Básico        |
+| VBA                             | Básico        |
 
-Here are some ideas to get you started:
+E outras linguagens:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Você pode me achar aqui também:
+| Linguagem                       | Nível         |
+| :-----------------------------: | :-----------: |
+| _HTML_                          | Intermediário |
+| _CSS_                           | Intermediário |
+
+🔽 **__Você pode me achar aqui também:__** 🔽
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erickmenezes/)](https://www.linkedin.com/in/erickmenezes/)
