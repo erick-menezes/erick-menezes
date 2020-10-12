@@ -5,9 +5,8 @@ Meu nome é Erick e estou na busca da aprendizagem para o FullStack 📝. Estou 
 | Linguagem                       | Nível         |
 | :-----------------------------: | :-----------: |
 | _Python_                        | Intermediário |
-| _JavaScript (puro e com React)_ | Intermediário |
-| _C++_                           | Básico        |
-| VBA                             | Básico        |
+| _JavaScript (vanilla)_          | Intermediário |
+| _JavaScript (react)_            | Básico        |
 
 E outras linguagens:
 
