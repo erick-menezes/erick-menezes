@@ -18,4 +18,3 @@ E outras linguagens:
 🔽 **__Você pode me achar aqui também:__** 🔽
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erickmenezes/)](https://www.linkedin.com/in/erickmenezes/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ErickMS__)](https://twitter.com/ErickMS__)
