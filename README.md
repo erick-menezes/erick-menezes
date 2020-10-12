@@ -1,6 +1,6 @@
 ### Oi! 👋
 
-Meu nome é Erick e estou na busca da aprendizagem para o FullStack 📝. Estou cursando 🎓 Ciências da Computação 🎓 na Estácio e estou começando a realizar alguns projetos, espero poder compartilhar alguns aqui em breve. Linguagens de programação que tenho algum conhecimento:
+Meu nome é Erick e estou na busca da aprendizagem para o FullStack 📝, com foco em front-end. Estou cursando 🎓 Ciências da Computação 🎓 na Estácio e estou começando a realizar alguns projetos, espero poder compartilhar alguns aqui em breve. Linguagens de programação principais durante o meu estudo:
 
 | Linguagem                       | Nível         |
 | :-----------------------------: | :-----------: |
