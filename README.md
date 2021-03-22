@@ -5,15 +5,11 @@ Meu nome é Erick e estou na busca da aprendizagem para o FullStack 📝, com fo
 | Linguagem                       | Nível         |
 | :-----------------------------: | :-----------: |
 | _Python_                        | Intermediário |
-| _JavaScript (vanilla)_          | Intermediário |
-| _JavaScript (react)_            | Básico        |
-
-E outras linguagens:
-
-| Linguagem                       | Nível         |
-| :-----------------------------: | :-----------: |
-| _HTML_                          | Intermediário |
-| _CSS_                           | Intermediário |
+| _JavaScript_                    | Intermediário |
+| _React.js_                      | Intermediário |
+| _PHP_                           | Intermediário |
+| _Next.js_                       | Básico        |
+| _Node.js_                       | Básico        |
 
 🔽 **__Você pode me achar aqui também:__** 🔽
 
