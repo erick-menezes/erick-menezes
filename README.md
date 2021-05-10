@@ -1,8 +1,8 @@
 ### Oi! 👋
 
-Meu nome é Erick e estou na busca da aprendizagem para o FullStack 📝, com foco em front-end. Estou cursando 🎓 Ciências da Computação 🎓 na Estácio e estou começando a realizar alguns projetos, espero poder compartilhar alguns aqui em breve. Linguagens de programação que aprendi/estou aprendendo durante o meu estudo:
+Meu nome é Erick e estou na busca da aprendizagem para o FullStack 📝, com foco em front-end. Estou cursando 🎓 Ciências da Computação 🎓 na Estácio e estou começando a realizar alguns projetos, espero poder compartilhar alguns aqui em breve. Linguagens de programação/tecnologias que aprendi/estou aprendendo durante o meu estudo:
 
-| Linguagem                       | Nível         |
+| Linguagem/tecnologia            | Nível         |
 | :-----------------------------: | :-----------: |
 | _Python_                        | Intermediário |
 | _JavaScript_                    | Intermediário |
