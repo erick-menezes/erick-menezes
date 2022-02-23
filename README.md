@@ -20,9 +20,11 @@ Meu nome é Erick e estou na busca da aprendizagem para o FullStack, com foco em
   
 ##
 
-🔽 **__Você pode me achar aqui também:__** 🔽
+<p align="center">
+  <b>🔽 Você pode me achar aqui também: 🔽</b>
+</p>
 
-<div>
+<div align="center">
   <a href="mailto:erickmenezes25@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
