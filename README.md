@@ -4,10 +4,10 @@ Meu nome é Erick e estou na busca da aprendizagem para o FullStack, com foco em
 
 <div>
   <a href="https://github.com/erick-menezes/" target="_blank">
-    <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erick-menezes&theme=dark&layout=compact&locale=pt-br&hide_border=true&langs_count=6" />
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erick-menezes&theme=dark&layout=compact&locale=pt-br&hide_border=true&langs_count=6" />
   </a>
   <a href="https://github.com/erick-menezes/" target="_blank">
-    <img height="210em" src="https://github-readme-stats.vercel.app/api?username=erick-menezes&theme=dark&hide_rank=true&show_icons=true&count_private=true&include_all_commits=true&locale=pt-br&hide_title=true&hide_border=true" />
+    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=erick-menezes&theme=dark&hide_rank=true&show_icons=true&count_private=true&include_all_commits=true&locale=pt-br&hide_title=true&hide_border=true" />
   </a>
   <div height="60px">⠀</div>
   <div>
