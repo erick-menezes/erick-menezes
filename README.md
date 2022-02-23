@@ -33,3 +33,5 @@ Meu nome é Erick e estou na busca da aprendizagem para o FullStack, com foco em
      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
+
+ ![Snake animation](https://github.com/erick-menezes/erick-menezes/blob/output/github-contribution-grid-snake.svg)
