@@ -1,6 +1,6 @@
-<h3> Oi! 👋</h3>
+<h3> Hello world! 👋</h3>
 
-Meu nome é Erick e estou na busca da aprendizagem para o FullStack, com foco em front-end.
+Meu nome é Erick e sou um desenvolvedor Full Stack, com foco em Front-end. Realizo projetos voltados ao desenvolvimento web, utilizando tecnologias como ReactJS/NextJS e NodeJS.
 
 <div>
   <a href="https://github.com/erick-menezes/" target="_blank">
