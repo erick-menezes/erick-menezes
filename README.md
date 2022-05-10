@@ -1,6 +1,6 @@
 <h3> Hello world! 👋</h3>
 
-Meu nome é Erick e sou um desenvolvedor Full Stack, com foco em Front-end. Realizo projetos voltados ao desenvolvimento web, utilizando tecnologias como ReactJS/NextJS e NodeJS.
+Meu nome é Erick e sou um desenvolvedor Full Stack, com foco em Front-end. Realizo projetos voltados ao desenvolvimento web.
 
 <div>
   <a href="https://github.com/erick-menezes/" target="_blank">
@@ -10,11 +10,17 @@ Meu nome é Erick e sou um desenvolvedor Full Stack, com foco em Front-end. Real
     <img height="190em" src="https://github-readme-stats.vercel.app/api?username=erick-menezes&theme=dark&hide_rank=true&show_icons=true&count_private=true&include_all_commits=true&locale=pt-br&hide_title=true&hide_border=true" />
   </a>
   <div height="60px">⠀</div>
+  
   <div>
-    Atualmente estudando:
-    <a href="https://pt-br.reactjs.org/" target="_blank">
-      <img align="center" alt="logo-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    </a>
+    <p>Tecnologias/ferramentas que utilizo:</p>
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5 badge" />
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3 badge" />
+    <img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" alt="Javascript badge" />
+    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React badge" />
+    <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js badge" />
+    <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js badge" />
+    <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="TailwindCSS badge" />
+    <img src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" alt="Sass badge" />
   </div>
 </div>
   
