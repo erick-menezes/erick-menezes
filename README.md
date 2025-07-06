@@ -37,5 +37,3 @@ My name is Erick and I'm a Full Stack Developer with a strong focus on Front-End
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
-
- ![Snake animation](https://github.com/erick-menezes/erick-menezes/blob/output/github-contribution-grid-snake.svg)
