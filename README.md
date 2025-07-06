@@ -1,6 +1,6 @@
 <h3> Hello world! 👋</h3>
 
-Meu nome é Erick e sou um desenvolvedor Full Stack, com foco em Front-end. Realizo projetos voltados ao desenvolvimento web.
+My name is Erick and I'm a Full Stack Developer with a strong focus on Front-End. I build web projects using modern technologies and best practices.
 
 <div>
   <a href="https://github.com/erick-menezes/" target="_blank">
@@ -12,7 +12,7 @@ Meu nome é Erick e sou um desenvolvedor Full Stack, com foco em Front-end. Real
   <div height="60px">⠀</div>
   
   <div>
-    <p>Tecnologias/ferramentas que utilizo:</p>
+    <p>🚀 Technologies I work with:</p>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5 badge" />
     <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3 badge" />
     <img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" alt="Javascript badge" />
@@ -20,14 +20,13 @@ Meu nome é Erick e sou um desenvolvedor Full Stack, com foco em Front-end. Real
     <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js badge" />
     <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js badge" />
     <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="TailwindCSS badge" />
-    <img src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" alt="Sass badge" />
   </div>
 </div>
   
 ##
 
 <p align="center">
-  <b>🔽 Você pode me achar aqui também: 🔽</b>
+  <b>🔽 You can find me here: 🔽</b>
 </p>
 
 <div align="center">
@@ -36,9 +35,6 @@ Meu nome é Erick e sou um desenvolvedor Full Stack, com foco em Front-end. Real
   </a>
   <a href="https://www.linkedin.com/in/erickmenezes/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="http://discordapp.com/users/233695043028779020" target="_blank">
-     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
 
