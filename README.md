@@ -55,7 +55,7 @@ With **5 years of experience leading digital innovation projects**, I specialize
 ---
 
 ### 📫 Contact
-<p>Let's connect! Feel free to reach out for **collaborations, opportunities, or tech discussions** — I’m always open to new ideas and projects.</p>
+Let's connect! Feel free to reach out for **collaborations, opportunities, or tech discussions**, I’m always open to new ideas and projects.
 
 <div align="center">
   <a href="mailto:erickmenezes25@gmail.com" target="_blank">
